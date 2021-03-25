@@ -60,4 +60,4 @@ The appliaction builds clasification model that predicts the list of potential c
 List of potential customers for subscription of term deposit is generated for future canpaign usage. 
 
 
-#Postcondition : Analyst gets list of potential customers for subscription of term deposit
+#Postcondition : Analyst gets list of potential customers for subscription of term deposit.
